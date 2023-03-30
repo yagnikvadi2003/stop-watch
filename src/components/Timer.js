@@ -8,7 +8,7 @@ const Timer = () => {
 
     return (
         <div className="app">
-        <h3>React Stopwatch</h3>
+        <h3>Stopwatch</h3>
         <div className='stopwatch-card'>
             <p>{formatTime(timer)}</p>
             <div className='buttons'>
